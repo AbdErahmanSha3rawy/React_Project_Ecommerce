@@ -12,7 +12,7 @@ import SearchResults from "./pages/SearchResults"
 import Favorites from "./pages/favorites/Favorites"
 function App() {
   return (
-   <BrowserRouter>
+   <BrowserRouter basename="/React_Project_Ecommerce">
   
    <>
    <header>
